@@ -1,6 +1,6 @@
 # Fake Reviews Detection on Movie Reviews through Sentiment Analysis
 
-![image](https://github.com/NotHari/Fake-Reviews-Detection-on-Movie-Reviews-through-Sentiment-Analysis/blob/main/coverImage.png)
+![image](https://images.unsplash.com/photo-1598899134739-24c46f58b8c0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=856&q=80)
 
 Sentiment analysis or opinion mining is a natural language processing (NLP) technique used to determine the polarity of a given text - whether it is positive, negative, or neutral. One of the main issues with sentiment analysis is the extraction of emotions from opinion reviews and the identification of fake positive and fake negative reviews from these opinion reviews.
 
